@@ -1,2 +1,2 @@
-email = "dlugoleckijanek1@gmil.com" #---> tu wpisz swoj mail z gmail
-password = "anonimus12345" #---> tu wpisz swoje hasło z gmail
+email = "hasło" #---> tu wpisz swoj mail z gmail
+password = "hasło" #---> tu wpisz swoje hasło z gmail
